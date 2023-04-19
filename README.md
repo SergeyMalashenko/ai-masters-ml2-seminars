@@ -14,4 +14,11 @@
 
 |#  |Дата       |Tема                                         |Материалы                                                            
 |---|-----------|---------------------------------------------|---------------------------------------------------------------------|
-|1  |           |                                             |[github](01_seminar/seminar01_notebook.ipynb)                        |
+|1  | 29.03.23  | Временные ряды                              |[github](12_04_seminar/12_04_seminar.ipynb)                          |
+|2  | 12.04.23  | Задача ранжирования                         |[github](19_04_seminar/19_04_seminar.ipynb)                          |
+|3  | 19.04.23  | Задача кластеризации                        |[github](29_03_seminar/29_03_seminar.ipynb)                          |
+
+## Рекомендуемая литература
+Bishop: Pattern Recognition and Machine Learning.
+Kevin P. Murphy: Probabilistic Machine Learning: An Introduction
+
